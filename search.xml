@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[部署一台Linux服务器（一）安装CentOS]]></title>
-    <url>%2F2017%2F12%2F28%2F%E9%83%A8%E7%BD%B2%E4%B8%80%E5%8F%B0Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88%E4%B8%80%EF%BC%89%E5%AE%89%E8%A3%85CentOS%2F</url>
-    <content type="text"><![CDATA[下载安装文章连接]]></content>
+    <title><![CDATA[部署一台Linux服务器（零）前言]]></title>
+    <url>%2F2017%2F12%2F28%2F%E9%83%A8%E7%BD%B2%E4%B8%80%E5%8F%B0Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88%E9%9B%B6%EF%BC%89%E5%89%8D%E8%A8%80%2F</url>
+    <content type="text"><![CDATA[前言最近想把家里的Gen8的系统改变为CentOS，用了很久的黑群晖还是很稳定的。但，折腾的心还是不止的。而且，最近公司也有要从Windows平台更换为Linux平台的计划。所以，就有了这篇系列文章。 需要安装及部署的软件 CentOS 7 JAVA MySQL Tomcat 文章连接代码12345678910public static Picasso with(Context context) &#123; if (singleton == null) &#123; synchronized (Picasso.class) &#123; if (singleton == null) &#123; singleton = new Builder(context).build(); &#125; &#125; &#125; return singleton;&#125;]]></content>
       <categories>
         <category>学习笔记</category>
       </categories>
@@ -13,9 +13,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[部署一台Linux服务器（零）前言]]></title>
-    <url>%2F2017%2F12%2F28%2F%E9%83%A8%E7%BD%B2%E4%B8%80%E5%8F%B0Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88%E9%9B%B6%EF%BC%89%E5%89%8D%E8%A8%80%2F</url>
-    <content type="text"><![CDATA[前言最近想把家里的Gen8的系统改变为CentOS，用了很久的黑群晖还是很稳定的。但，折腾的心还是不止的。而且，最近公司也有要从Windows平台更换为Linux平台的计划。所以，就有了这篇系列文章。 需要安装及部署的软件 CentOS 7 JAVA MySQL Tomcat 文章连接代码12345678910public static Picasso with(Context context) &#123; if (singleton == null) &#123; synchronized (Picasso.class) &#123; if (singleton == null) &#123; singleton = new Builder(context).build(); &#125; &#125; &#125; return singleton;&#125;]]></content>
+    <title><![CDATA[部署一台Linux服务器（一）安装CentOS]]></title>
+    <url>%2F2017%2F12%2F28%2F%E9%83%A8%E7%BD%B2%E4%B8%80%E5%8F%B0Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88%E4%B8%80%EF%BC%89%E5%AE%89%E8%A3%85CentOS%2F</url>
+    <content type="text"><![CDATA[下载安装文章连接]]></content>
       <categories>
         <category>学习笔记</category>
       </categories>
